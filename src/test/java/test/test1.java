@@ -9,7 +9,11 @@ public class test1 {
 	public void test(){
 		System.out.println("Method1111");
 	}
+	public void Test3(){
+
+	}
 	public  void screeshot(){
 		System.out.println("Screenshot 2222211111");//
 	}
+
 }
