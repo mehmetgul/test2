@@ -9,4 +9,7 @@ public class test1 {
 	public void test(){
 		System.out.println("Method");
 	}
+	public  void screeshot(){
+		System.out.println("Screenshot");
+	}
 }
