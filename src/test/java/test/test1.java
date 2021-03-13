@@ -7,7 +7,7 @@ public class test1 {
 		System.out.println("Hello");
 	}
 	public void test(){
-		System.out.println("Method");
+		System.out.println("Method1111");
 	}
 	public  void screeshot(){
 		System.out.println("Screenshot");
