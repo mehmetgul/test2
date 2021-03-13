@@ -14,6 +14,7 @@ public class test1 {
 	}
 	public  void screeshot(){
 		System.out.println("Screenshot 2222211111");//
+		System.out.println("Screenshot 2222211111");//
 	}
 
 }
