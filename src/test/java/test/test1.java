@@ -10,6 +10,6 @@ public class test1 {
 		System.out.println("Method");
 	}
 	public  void screeshot(){
-		System.out.println("Screenshot");
+		System.out.println("Screenshot 11111");
 	}
 }
